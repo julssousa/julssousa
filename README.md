@@ -4,8 +4,7 @@
 
 # 👋 Olá, eu sou a Júlia!
 
-🔬 **Mestranda em Ciências do Esporte** | 📊 **Estudante de Ciências de Dados**  
-💼 Apaixonada por dados e por fisiologia.  
+🔬 **Mestre em Ciências do Esporte** | 📊 **Estudante de Ciências de Dados**  
 🌱 Procurando sempre aprender novas ferramentas e técnicas para análise de dados.
 
 ## 📚 Áreas de Interesse
@@ -16,8 +15,6 @@
 
 ## 💻 Ferramentas que utilizo
 - Python
-- R 
-- SQL, Power BI
 
 ---
 
